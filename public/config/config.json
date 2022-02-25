@@ -12,7 +12,7 @@
   "WEI_COST": 0.2000000000000000000,
   "DISPLAY_COST": 0.2,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/BHUFF-TEST-PUNKS",
   "SHOW_BACKGROUND": true
 }
