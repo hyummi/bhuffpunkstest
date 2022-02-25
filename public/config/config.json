@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x95A9Fa6d2d5665782fd933cBECf8C19998d522CA",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x95A9Fa6d2d5665782fd933cBECf8C19998d522CA",
+  "CONTRACT_ADDRESS": "0x1eBff598e66181790758ec92c8e5Ccd91856A59f",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x1eBff598e66181790758ec92c8e5Ccd91856A59f",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "TMATIC",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/bhuff-test-punks",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/bhufferist-test",
   "SHOW_BACKGROUND": true
 }
