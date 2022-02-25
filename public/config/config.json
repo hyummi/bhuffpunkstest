@@ -3,14 +3,14 @@
   "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x023D0a97a42E4E76a4003b4FE236dc22d2f4C5E2",
   "NETWORK": {
     "NAME": "Polygon",
-    "SYMBOL": "MATIC",
+    "SYMBOL": "TMATIC",
     "ID": 80001
   },
   "NFT_NAME": "BHUFF Punks NFT",
   "SYMBOL": "BHUFF",
   "MAX_SUPPLY": 5555,
-  "WEI_COST": 0.200000000000000000,
-  "DISPLAY_COST": 0.2,
+  "WEI_COST": .200000000000000000,
+  "DISPLAY_COST": .2,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/bhuff-test-punks",
