@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "0x515e427cc8458c4811a3215100f21263317ffcf7",
   "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x515e427cc8458c4811a3215100f21263317ffcf7",
   "NETWORK": {
-    "NAME": "MumbaiPolygon",
+    "NAME": "Polygon",
     "SYMBOL": "TMatic",
     "ID": 80001
   },
