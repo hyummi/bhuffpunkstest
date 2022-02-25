@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x1eBff598e66181790758ec92c8e5Ccd91856A59f",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x1eBff598e66181790758ec92c8e5Ccd91856A59f",
+  "CONTRACT_ADDRESS": "0x709241fe1106cf2F5c5D101a0A21a9Bb79F554e7",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x709241fe1106cf2F5c5D101a0A21a9Bb79F554e7",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "TMATIC",
@@ -8,11 +8,11 @@
   },
   "NFT_NAME": "BHUFF Punks NFT",
   "SYMBOL": "BHUFF",
-  "MAX_SUPPLY": 5555,
-  "WEI_COST": 0.000000000000000000,
-  "DISPLAY_COST": 0,
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/bhufferist-test",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/reshadep",
   "SHOW_BACKGROUND": true
 }
