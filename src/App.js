@@ -247,7 +247,6 @@ function App() {
                 textAlign: "center",
               }}
       
-                }}
                 onClick={(e) => {
                   window.open(CONFIG.MARKETPLACE_LINK, "_blank");
                 }}
