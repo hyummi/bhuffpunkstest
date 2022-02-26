@@ -1,9 +1,9 @@
 {
-  "CONTRACT_ADDRESS": "0x709241fe1106cf2F5c5D101a0A21a9Bb79F554e7",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x709241fe1106cf2F5c5D101a0A21a9Bb79F554e7",
+  "CONTRACT_ADDRESS": "0x88d37c8330492640DD8AcC2ADc440c7adBe9f7Ff",
+  "SCAN_LINK": "https://polygonscan.com/address/0x88d37c8330492640DD8AcC2ADc440c7adBe9f7Ff",
   "NETWORK": {
     "NAME": "Polygon",
-    "SYMBOL": "TMATIC",
+    "SYMBOL": "MATIC",
     "ID": 80001
   },
   "NFT_NAME": "BHUFF Punks NFT",
