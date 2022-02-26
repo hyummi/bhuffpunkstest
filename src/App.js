@@ -246,7 +246,11 @@ function App() {
               style={{
                 textAlign: "center",
               }}
-      
+        
+              <StyledButton
+                style={{
+                  margin: "5px",
+                }}
                 onClick={(e) => {
                   window.open(CONFIG.MARKETPLACE_LINK, "_blank");
                 }}
