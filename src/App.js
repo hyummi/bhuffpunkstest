@@ -246,7 +246,7 @@ function App() {
               style={{
                 textAlign: "center",
               }}
-        
+          >
               <StyledButton
                 style={{
                   margin: "5px",
