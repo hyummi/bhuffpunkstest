@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xe7f185e42DAD08A1090454d8F2101ed8c5171681",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xe7f185e42DAD08A1090454d8F2101ed8c5171681",
+  "CONTRACT_ADDRESS": "0x4eda0dEfd04c06483FE10c3cC1cd740cfA3B3A0a",
+  "SCAN_LINK": "https://polygonscan.com/address/0x4eda0defd04c06483fe10c3cc1cd740cfa3b3a0a",
   "NETWORK": {
     "NAME": "Polygon",
-    "SYMBOL": "TMATIC",
-    "ID": 80001
+    "SYMBOL": "MATIC",
+    "ID": 137
   },
-  "NFT_NAME": "BHUFF Punks NFT",
-  "SYMBOL": "BHUFF",
+  "NFT_NAME": "Reshade Punks NFT",
+  "SYMBOL": "REPUNKS",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 0.000000000000000000,
-  "DISPLAY_COST": 0,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/test1234-gakt5csbrg",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/reshade-punks",
   "SHOW_BACKGROUND": true
 }
